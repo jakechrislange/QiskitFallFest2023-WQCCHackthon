@@ -1,2 +1,2 @@
 # QiskitFallFest2023-WQCCHackthon
-Repository for WQCC Hackathon - Qiskit Fall Fest 2023
+Repository for Qiskit Fall Fest 2023 -  WQCC Hackathon
